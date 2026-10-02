@@ -1,24 +1,24 @@
 #import "@preview/charged-ieee:0.1.4": ieee
 
 #show: ieee.with(
-  title: [Report Template],
+  title: [Man City Breaches],
   abstract: [
     This is where you put your abstract. Abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract.
   ],
   authors: (
     (
-      name: "Author 1",
-      department: [Department 1],
+      name: "Jordan Mthombeni",
+      department: [Civil and Environmental Engineering],
       organization: [University of Illinois Urbana-Champaign],
       location: [Urbana, IL, USA],
-      email: "author1@illinois.edu",
+      email: "dmtho@illinois.edu",
     ),
     (
-      name: "Author 2",
-      department: [Department 2],
+      name: "Leroy Brandon Dube",
+      department: [Accounting and Finance],
       organization: [University of Illinois Urbana-Champaign],
       location: [Urbana, IL, USA],
-      email: "author2@illinois.edu",
+      email: "lbdub@illinois.edu",
     ),
   ),
   index-terms: ("Optional", "Keywords", "Here"),
